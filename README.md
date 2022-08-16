@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZapaCode
+- 👋 Hi, I’m @Bernardo Zaparoli
 - 👀 I’m work in Software Numerama 
 - 🌱 I’m currently learning PHP, JavaScript, C++, Java, SQL
 - 📫 I'm living in Sananduva Rio Grande do Sul Brasil
