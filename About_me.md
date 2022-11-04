@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bernardo Zaparoli
 - 👀 I’m work in Software Numerama 
-- 🌱 I’m currently learning PHP, JavaScript, C++, Java, SQL
+- 🌱 I’m currently learning PHP,Laravel, JavaScript, Vue, React, Java, MySql
 - 📫 I'm living in Sananduva Rio Grande do Sul Brasil
 
 <!---
