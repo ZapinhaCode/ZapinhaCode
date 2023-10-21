@@ -27,7 +27,7 @@
 
 # Professional Contact
 <p>
-  <a href="mailto:bernardozaparoli@hotmail.com">
+  <a href="mailto:bernardozaparoli0@gmail.com">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white">
   </a>&nbsp;&nbsp;
 
