@@ -2,7 +2,7 @@
 - 👨‍💻 I'm Bernardo Zaparoli, a full stack developer.
 - 🔭 I current work at [Numerama Software](https://numerama.com.br/), with Laravel, PHP, Vue.js, JavaScript and MySQL.
 - 📚 I am studying computer science at the University of Passo Fundo.
-- 💡  In my free time I love to learn new technologies but always improving Laravel and Vue.js, which I have been working on for over 2 years.
+- 💡  In my free time I love to learn new technologies but always improving Laravel and Vue.js, which I have been working on for over 3 years.
 
 <h2> 🚀 &nbsp;Some Tools and Programming Languages I Have Used and Learned</h2>
 
